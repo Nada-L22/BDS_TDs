@@ -2,6 +2,6 @@ This repository contains solutions to practical exercises on spatial databases u
 
 ## Repository Structure
 
-- **TD1/**: Installation of PostGIS and the creation of a spatial database.
-- **TD2/**: Creating spatial tables with different geometry types (Points, Polygons, and LineStrings) and manipulating spatial data using QGIS.
-- **TD3/**: Spatial SQL functions, including buffer zones, centroids, and spatial queries for analyzing parcels within a given radius.
+- **TD1**: Installation of PostGIS and the creation of a spatial database.
+- **TD2**: Creating spatial tables with different geometry types (Points, Polygons, and LineStrings) and manipulating spatial data using QGIS.
+- **TD3**: Spatial SQL functions, including buffer zones, centroids, and spatial queries for analyzing parcels within a given radius.
